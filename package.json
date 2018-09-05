@@ -11,5 +11,8 @@
     "type": "git",
     "url": "https://github.com/mmalecki/json-stream.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bl": "^2.0.1"
+  }
 }
